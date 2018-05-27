@@ -2,7 +2,7 @@
 title = "Videogames PEI"
 type = "page"
 [[blocks]]
-background_image = ""http://via.placeholder.com/1600x400""
+background_image = "http://via.placeholder.com/1600x400"
 background_style = "Dark"
 heading = "Videogames PEI"
 size = "Big"
