@@ -25,8 +25,8 @@ image_position = "Left"
 template = "media-feature"
 [[blocks]]
 background_style = "Light"
-content = "The theme's primary color and logo are customizable from your `config.toml` file."
-heading = "Customizable Branding"
+content = "Here's another reason why PEI is great. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sit amet tincidunt ex. Vestibulum pellentesque condimentum nisl quis ultrices."
+heading = "Another reason"
 image = "http://via.placeholder.com/640x360"
 image_position = "Right"
 image_shadow = true
@@ -42,7 +42,7 @@ template = "media-feature"
 [[blocks]]
 button_text = "View on Github"
 button_url = "https://github.com/dwalkr/sawmill"
-heading = "Let's Get Started"
+heading = "Contact Us"
 template = "call-to-action"
 
 +++
