@@ -2,7 +2,7 @@
 title = "Videogames PEI"
 type = "page"
 [[blocks]]
-background_image = "/uploads/2018/04/20/logs-splash.png"
+background_image = "/uploads/2018/05/27/cropped-CF111-13S-Winter-9616-M.jpg"
 background_style = "Dark"
 heading = "Videogames PEI"
 size = "Big"
