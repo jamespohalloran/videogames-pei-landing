@@ -2,7 +2,7 @@
 title = "Videogames PEI"
 type = "page"
 [[blocks]]
-background_image = "/uploads/2018/05/27/cropped-CF111-13S-Winter-9616-M.jpg"
+background_image = ""http://via.placeholder.com/1600x400""
 background_style = "Dark"
 heading = "Videogames PEI"
 size = "Big"
@@ -35,7 +35,7 @@ template = "media-feature"
 background_style = "Dark"
 content = "This theme is designed to work out-of-the-box with [Forestry.io's](https://forestry.io) **Blocks** feature. Just copy the theme's `.forestry/front_matter/templates` directory into the top level of your project, or get started even faster with the [starter project](https://github.com/dwalkr/sawmill-starter)."
 heading = "Made For Forestry"
-image = "http://via.placeholder.com/640x160"
+image = "http://via.placeholder.com/640x400"
 image_position = "Left"
 image_shadow = true
 template = "media-feature"
@@ -44,5 +44,4 @@ button_text = "View on Github"
 button_url = "https://github.com/dwalkr/sawmill"
 heading = "Let's Get Started"
 template = "call-to-action"
-
 +++
