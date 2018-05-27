@@ -4,16 +4,16 @@ type = "page"
 [[blocks]]
 background_image = "/uploads/2018/04/20/logs-splash.png"
 background_style = "Dark"
-heading = "Sawmill"
+heading = "Videogames PEI"
 size = "Big"
-subheading = "A Modular Layout Builder for Hugo and [Forestry.io](https://forestry.io)"
+subheading = "**Our mission statement here**"
 template = "hero-section"
 [[blocks]]
-content = "**Sawmill** is a simplistic Hugo theme built to take advantage of [Forestry CMS](https://forestry.io \"Forestry.io\")'s Blocks feature.\n\nThis theme includes a few basic components to get started with Blocks right away and create dynamic, visually interesting layouts. Once you get the hang of Sawmill's modular content strategy, you are encouraged to start creating your own components to fit the needs of your website."
+content = "**Videogames PEI**\n\nWe're a collective of video game developers, publishers, & support studios. We're passionate about growing the video game industry on our beautiful island."
 template = "body-copy"
 [[blocks]]
 background_style = "Brand Color"
-heading = "Features"
+heading = "Why PEI is awesome"
 size = "Small"
 template = "hero-section"
 [[blocks]]
