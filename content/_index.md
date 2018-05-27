@@ -13,13 +13,13 @@ content = "**Videogames PEI**\n\nWe're a collective of video game developers, pu
 template = "body-copy"
 [[blocks]]
 background_style = "Brand Color"
-heading = "Why PEI is awesome"
+heading = "Why PEI is great for us"
 size = "Small"
 template = "hero-section"
 [[blocks]]
 background_style = "Light"
-content = "[Bulma](https://bulma.io/) is a modern, responsive CSS framework with a flexbox-based grid system. "
-heading = "Built With Bulma"
+content = "**Put a reason here**"
+heading = "Here's a reason"
 image = "/uploads/2018/04/19/bulma-logo.png"
 image_position = "Left"
 template = "media-feature"
