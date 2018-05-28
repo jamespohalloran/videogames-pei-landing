@@ -40,12 +40,9 @@ image_position = "Left"
 image_shadow = true
 template = "media-feature"
 [[blocks]]
-button_text = "View on Github"
-button_url = "https://github.com/dwalkr/sawmill"
-heading = "Contact Us"
-template = "call-to-action"
-[[blocks]]
 button_text = "Submit"
+heading = "Contact Us"
+subheading = "Any questions? Don't hesitate to drop us a line!"
 template = "contact-form"
 to_email = "james.p.ohalloran@gmail.com"
 
