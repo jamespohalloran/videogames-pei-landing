@@ -1,3 +1,6 @@
 [submodule "themes/sawmill"]
 	path = themes/sawmill
 	url = https://github.com/dwalkr/sawmill.git
+[submodule "themes/sawmill-landing"]
+	path = themes/sawmill-landing
+	url = https://github.com/jamespohalloran/sawmill-landing
