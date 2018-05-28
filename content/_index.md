@@ -45,8 +45,8 @@ size = "Small"
 template = "hero-section"
 [[blocks]]
 background_style = "Dark"
-content = "This theme is designed to work out-of-the-box with [Forestry.io's](https://forestry.io) **Blocks** feature. Just copy the theme's `.forestry/front_matter/templates` directory into the top level of your project, or get started even faster with the [starter project](https://github.com/dwalkr/sawmill-starter)."
-heading = "Made For Forestry"
+content = "This is one studio's description, and will be a slider. Here is some more text about the studio"
+heading = "Mighty Pebble Games"
 image = "http://via.placeholder.com/640x400"
 image_position = "Left"
 image_shadow = true
