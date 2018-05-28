@@ -7,3 +7,6 @@ fields:
   label: to email
   config:
     required: true
+- type: text
+  name: button_text
+  label: button text
