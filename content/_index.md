@@ -44,5 +44,9 @@ button_text = "View on Github"
 button_url = "https://github.com/dwalkr/sawmill"
 heading = "Contact Us"
 template = "call-to-action"
+[[blocks]]
+button_text = "Submit"
+template = "contact-form"
+to_email = "james.p.ohalloran@gmail.com"
 
 +++
