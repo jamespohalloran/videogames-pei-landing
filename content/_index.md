@@ -32,6 +32,18 @@ image_position = "Right"
 image_shadow = true
 template = "media-feature"
 [[blocks]]
+background_style = "Light"
+content = "**Put a reason here** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sit amet tincidunt ex. Vestibulum pellentesque condimentum nisl quis ultrices."
+heading = "Anotha' one"
+image = "http://via.placeholder.com/640x160"
+image_position = "Left"
+template = "media-feature"
+[[blocks]]
+background_style = "Brand Color"
+heading = "Meet some of the studios"
+size = "Small"
+template = "hero-section"
+[[blocks]]
 background_style = "Dark"
 content = "This theme is designed to work out-of-the-box with [Forestry.io's](https://forestry.io) **Blocks** feature. Just copy the theme's `.forestry/front_matter/templates` directory into the top level of your project, or get started even faster with the [starter project](https://github.com/dwalkr/sawmill-starter)."
 heading = "Made For Forestry"
@@ -45,5 +57,4 @@ heading = "Contact Us"
 subheading = "Any questions? Don't hesitate to drop us a line!"
 template = "contact-form"
 to_email = "james.p.ohalloran@gmail.com"
-
 +++
