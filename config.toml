@@ -1,9 +1,0 @@
-baseURL = "https://dwalkr.github.io/sawmill/"
-languageCode = "en-us"
-theme = "sawmill-landing"
-title = "Videogames PEI"
-[Author]
-name = "DJ Walker"
-[[menu.main]]
-[params]
-logo = "/uploads/2018/05/27/videogamespei_logo.png"
