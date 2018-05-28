@@ -13,7 +13,7 @@ content = "**Videogames PEI**\n\nWe're a collective of video game developers, pu
 template = "body-copy"
 [[blocks]]
 background_style = "Brand Color"
-heading = "Why PEI is great for us"
+heading = "Why PEI is the best"
 size = "Small"
 template = "hero-section"
 [[blocks]]
