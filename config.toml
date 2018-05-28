@@ -1,9 +1,9 @@
-baseURL = "https://dwalkr.github.io/sawmill/"
+baseURL = "https://jamespohalloran.github.io/videogames-pei-landing/"
 languageCode = "en-us"
 theme = "sawmill-landing"
 title = "Videogames PEI"
 [Author]
-name = "DJ Walker"
+name = "James O'Halloran"
 [[menu.main]]
 [params]
 logo = "/uploads/2018/05/28/videogamespei_logo.png"
