@@ -18,7 +18,7 @@ size = "Small"
 template = "hero-section"
 [[blocks]]
 background_style = "Light"
-content = "**Put a reason here** Lorem ipsum dolor sit amet consectetur adipiscing elit. Curabitur sit amet tincidunt ex. Vestibulum pellentesque condimentum nisl quis ultrices."
+content = "**Put a reason here** Lorem ipsum dolor sit amet consectetur adipiscing elit. Curabitur sit amet tincidunt ex, Vestibulum pellentesque condimentum nisl quis ultrices."
 heading = "Here's a reason"
 image = "http://via.placeholder.com/640x160"
 image_position = "Left"
