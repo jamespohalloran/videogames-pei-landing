@@ -3,6 +3,13 @@ hide_body: true
 is_partial: true
 fields:
 - type: text
+  name: heading
+  label: heading
+  default: Contact Us
+- type: text
+  label: subheading
+  name: subheading
+- type: text
   name: to_email
   label: to email
   config:
@@ -10,10 +17,3 @@ fields:
 - type: text
   name: button_text
   label: button text
-- type: text
-  name: heading
-  label: heading
-  default: Contact Us
-- type: text
-  label: subheading
-  name: subheading
