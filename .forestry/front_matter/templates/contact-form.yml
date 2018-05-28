@@ -1,4 +1,9 @@
 ---
 hide_body: true
 is_partial: true
-fields: []
+fields:
+- type: text
+  name: to_email
+  label: to email
+  config:
+    required: true
